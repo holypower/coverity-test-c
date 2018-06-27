@@ -1,12 +1,3 @@
-/*
-  Copyright (c) 2015, Synopsys, Inc. All rights reserved worldwide.
-  The information contained in this file is the proprietary and confidential
-  information of Synopsys, Inc. and its licensors, and is supplied subject to,
-  and may be used only by Synopsys customers in accordance with the terms and
-  conditions of a previously executed license agreement between Synopsys and that
-  customer.
-*/
-
 #include "stdio.h"
 #include "stdlib.h"
 
